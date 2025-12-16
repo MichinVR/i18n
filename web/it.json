@@ -4,14 +4,14 @@
     "purchase": "Acquista",
     "discord": "Discord",
     "dashboard": "Dashboard",
-    "manage": "Gestione"
+    "manage": "Gestisci"
   },
   "home": {
     "hero": {
       "texts": [
         { "before": "Domina il gioco con", "after": "." },
         { "before": "Così valido che i competitor fingono di essere", "after": "." },
-        { "before": "L’originale. Il migliore. Sempre", "after": "." },
+        { "before": "L’Originale. Il Migliore. Sempre", "after": "." },
         { "before": "Perché accontentarsi di copie quando hai", "after": "?" },
         { "before": "L’imitazione è un complimento. L’eccellenza è", "after": "." }
       ],
@@ -25,7 +25,7 @@
       "subtitle": "Con il nostro ricco set di funzionalità, non vorrai più tornare a un altro client.",
       "items": {
         "abundant": {
-          "title": "Ricco di funzioni",
+          "title": "Ricco di funzionalità",
           "description": "Opal offre un vasto numero di moduli con molte opzioni di personalizzazione."
         },
         "userFriendly": {
@@ -46,7 +46,7 @@
         },
         "quality": {
           "title": "Qualità premium",
-          "description": "Ci teniamo ai nostri utenti e puntiamo a rendere il client il migliore possibile."
+          "description": "Ci teniamo ai nostri utenti e puntiamo a rendere il client ad essere il migliore possibile."
         }
       }
     },
@@ -62,13 +62,13 @@
   "purchase": {
     "header": {
       "title": "Scegli la tua edizione",
-      "subtitle": "Acquista Opal standalone, oppure sblocca l’esperienza completa con Terminus e ottieni Opal incluso gratuitamente."
+      "subtitle": "Acquista Opal da solo, oppure sblocca l’esperienza completa con Terminus e ottieni Opal incluso gratuitamente."
     },
     "opal": {
       "title": "Opal Client",
       "price": "8.99",
-      "currency": "USD",
-      "description": "Il client utilitario ibrido essenziale per Minecraft. Pulito, leggero e non rilevabile.",
+      "currency": "Dollari (USD)",
+      "description": "Il client ibrido essenziale per Minecraft. Pulito, leggero e non detectabile.",
       "featuresTitle": "Cosa include",
       "features": [
         "Opal Client (a vita)",
@@ -79,10 +79,10 @@
       "paymentMethods": "Carta, Apple Pay, Google Pay, Klarna, CashApp"
     },
     "terminus": {
-      "badge": "Miglior valore",
+      "badge": "Miglior Valore",
       "title": "Terminus: Edizione Minigame",
       "price": "45.00",
-      "currency": "USD",
+      "currency": "Dollari (USD)",
       "description": "Il client minigame definitivo. Include Opal Client gratis (a vita).",
       "featuresTitle": "Cosa include",
       "features": [
@@ -101,13 +101,13 @@
     },
     "upgrade": {
       "title": "Sei già un utente Opal?",
-      "description": "Passa a Terminus per soli 15.00 USD. Apri un ticket per richiederlo."
+      "description": "Passa a Terminus per soli 15.00 Dollari (USD). Apri un ticket per richiederlo."
     },
     "terms": "Acquistando, accetti i nostri Termini di servizio. Tutte le vendite sono definitive. “A vita” significa per la durata del prodotto."
   },
   "dashboard": {
     "title": "Dashboard",
-    "manage": "Gestione",
+    "manage": "Gestisci",
     "nav": {
       "home": "Home",
       "purchase": "Acquista",
@@ -139,7 +139,7 @@
       "title": "Download",
       "opalClient": "Opal Client",
       "downloadOpal": "Scarica Opal",
-      "selectRelease": "Seleziona una release",
+      "selectRelease": "Seleziona una build",
       "updated": "Aggiornato",
       "ownedSince": "In possesso dal",
       "changelog": "Changelog"
@@ -152,7 +152,7 @@
       "changelog": "Changelog"
     },
     "access": {
-      "title": "Controllo accessi",
+      "title": "Gestisci accessi",
       "hwid": "ID hardware",
       "lastChanged": "Ultima modifica",
       "ago": "fa",
@@ -161,10 +161,10 @@
     },
     "setup": {
       "title": "Installazione del client",
-      "description": "Segui queste istruzioni per far funzionare Opal sul tuo dispositivo.",
+      "description": "Segui queste istruzioni per installare Opal sul tuo Dispositivo.",
       "instructions": {
         "title": "Istruzioni di installazione",
-        "description": "Guida passo-passo all’installazione.",
+        "description": "Guida passo per passo all’installazione.",
         "step1": {
           "title": "Configurazione launcher",
           "text": "Scarica {prismLink}, configura un nuovo profilo {fabricLink} per 1.21.10 e installa la mod Fabric API.",
