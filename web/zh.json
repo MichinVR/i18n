@@ -69,14 +69,14 @@
           "text": "下载 {prismLink}，为 1.21.10 设置一个新的 {fabricLink} 配置文件，并安装 Fabric API 模组。",
           "note": "在我们自定义启动器发布之前，建议使用 Prism。"
         },
-        "description": "安装分步指南。",
+        "description": "手把手教您安装 Opal",
         "step3": {
           "title": "JVM 参数",
           "text": "将以下 JVM 参数添加到您的启动配置文件中（配置文件 → 编辑 → 设置 → Java 参数）："
         },
         "step4": {
           "title": "启动",
-          "text": "启动 Opal。系统将提示您登录 Opal 帐户。"
+          "text": "启动 Opal, 首次启动可能会提示您登录 Opal 帐户。"
         }
       },
       "title": "客户端安装",
@@ -492,12 +492,12 @@
         },
         "updates": {
           "title": "持续更新",
-          "description": "我们提供频繁的更新，帮助您通过新功能保持领先。"
+          "description": "我们提供频繁的更新，持续为您提供领先的新功能。"
         }
       }
     },
     "cta": {
-      "title": "提升您的 Minecraft 体验 ———— 从这里开始。",
+      "title": "提升您 Minecraft 体验的旅途\n从此处开启",
       "button": "立即购买"
     },
     "media": {
@@ -939,7 +939,7 @@
     },
     "upgrade": {
       "title": "Opal 老用户？",
-      "description": "仅需 15.00 美元即可升级至 Terminus。请开票购买。"
+      "description": "仅需 15.00 USD 即可升级至 Terminus。请开票购买。"
     },
     "terminus": {
       "button": "购买 Terminus 捆绑包",
