@@ -435,44 +435,44 @@
     "total": "总计"
   },
   "banner": {
-    "text": "节日特卖：使用优惠代码 HOLIDAY10 享受九折优惠，截止至 12 月 31 日"
+    "text": "圣诞促销：使用优惠代码 HOLIDAY10 享受九折优惠，截止至 12 月 31 日!"
   },
   "home": {
     "hero": {
       "texts": [
         {
-          "after": "。",
-          "before": "运筹帷幄之中，尽在"
+          "after": ".",
+          "before": "掌控全局, 尽在"
         },
         {
-          "after": "。",
-          "before": "卓越至此，对手都在争相模仿"
+          "after": ".",
+          "before": "卓越至此，对手唯有模仿."
         },
         {
-          "after": "。",
-          "before": "原创，至臻，恒久。永远是"
+          "after": ".",
+          "before": "原创至臻, 永远是"
         },
         {
-          "after": "，又何必在乎模仿者？",
-          "before": "既然你已拥有"
+          "after": "又何必在乎模仿者？",
+          "before": "当你拥有"
         },
         {
-          "after": "。",
-          "before": "模仿是最诚挚的恭维。卓越才是"
+          "after": ".",
+          "before": "模仿是最诚挚的恭维, 卓越才是"
         }
       ],
-      "brand": "Opal 客户端",
-      "description": "一款为您打造极致体验的高级 Minecraft 黑客客户端。Opal 目前支持 Minecraft 1.21.10 的 Fabric 版本，无论是在 1.8 还是最新版本的服务器上，都能提供流畅愉悦的体验。",
+      "brand": "opal client",
+      "description": "一款为用户打造极致体验的高级 Minecraft 黑客客户端。Opal 目前支持 Minecraft 1.21.10 的 Fabric 版本，无论是在 1.8 还是最新版本的服务器上，都能提供流畅愉悦的体验。",
       "purchase": "购买",
       "learnMore": "了解更多"
     },
     "features": {
-      "title": "为什么选择 Opal？",
+      "title": "为何选择 Opal？",
       "subtitle": "体验过我们丰富的功能，您将再也不想使用其他客户端。",
       "items": {
         "userFriendly": {
-          "title": "轻松体验",
-          "description": "Opal 旨在简单易用。安装即可上手，随时出发！"
+          "title": "简单上手",
+          "description": "Opal 简单易用, 零成本上手。"
         },
         "compatibility": {
           "title": "广泛兼容",
@@ -501,8 +501,8 @@
       "button": "立即购买"
     },
     "media": {
-      "title": "视频",
-      "subtitle": "来欣赏社区其他用户的视频！"
+      "title": "走近瞧瞧",
+      "subtitle": "欣赏我们用户的精彩锦集"
     }
   },
   "manage": {
