@@ -585,7 +585,7 @@
         "user": "Пользователь",
         "reseller": "Реселлер",
         "key": "Ключ",
-        "hwid": "HWID",
+        "hwid": "Хвид",
         "registered": "Зарегистрирован",
         "actions": "Действия"
         "hwid": {
@@ -594,25 +594,25 @@
           "reset": "Сбросить",
           "history": "история всех Хвид'ов",
           "resetConfirm": {
-            "title": "Reset Hardware ID",
-            "description": "Are you sure you want to reset the hardware ID for {name}? They will need to re-authenticate on their next login.",
-            "confirm": "Сбросить хвид",
+            "title": "Сбросить Хвид",
+            "description": "Вы уверены что хотите сбросить хвид этому пользователю?",
+            "confirm": "Сбросить",
             "cancel": "Отмена"
         },
         "historyDialog": {
-          "title": "HWID History",
-          "description": "Hardware ID changes for {name}",
-          "noHistory": "No HWID changes recorded.",
-          "eventSet": "HWID Set",
-          "eventReset": "HWID Reset"
+          "title": "История Хвид'ов",
+          "description": "История хвид'ов {name}",
+          "noHistory": "Ничего не найдено.",
+          "eventSet": "Поставить хвид",
+          "eventReset": "Сбросить хвид"
         },
-        "resetSuccess": "Hardware ID reset successfully!",
-        "resetError": "Failed to reset hardware ID."
+        "resetSuccess": "Сброс хвид'а успешен!",
+        "resetError": "Не удалось сбросить хвид :(."
       },
       "pagination": {
-        "page": "Page {current} of {total}",
-        "previous": "Previous",
-        "next": "Next"
+        "page": "Страница {current} с {total}",
+        "previous": "Предыдущая",
+        "next": "Следующая"
       }
     },
     "resellers": {
@@ -802,165 +802,165 @@
     }
   },
   "footer": {
-    "copyright": "Opal × Terminus. All rights reserved.",
-    "terms": "Terms of Service",
-    "privacy": "Privacy Policy"
+    "copyright": "Opal × Terminus. Все права зарезервированы.",
+    "terms": "Условия предосталвения услуг",
+    "privacy": "Политика конфидинцеальности"
   },
   "banner": {
-    "text": "Holiday Sale: Use code HOLIDAY10 for 10% off until Dec 31st"
+    "text": "Распродажа: Используй промокод HOLIDAY10 для 10% скидки до 31 декабря"
   },
   "forums": {
-    "warningTitle": "Check for known bugs",
-    "warning": "Before creating a report, please verify if the bug has already been reported. Duplicate reports delay fixes.",
+    "warningTitle": "Проверить на известные баги",
+    "warning": "Перед созданием баг репорта, убедитесь что он еще не был обжалован. Одинаковые баг репорты задерживают исправление.",
     "roadmap": {
-      "title": "Roadmap",
-      "searchPlaceholder": "Search roadmap...",
-      "allCategories": "All Categories",
-      "empty": "No items",
-      "planned": "Planned",
-      "inProgress": "In Progress",
-      "done": "Done"
+      "title": "Планы",
+      "searchPlaceholder": "Поиск по планам...",
+      "allCategories": "Все категории",
+      "empty": "Пусто",
+      "planned": "Запланировано",
+      "inProgress": "В процессе",
+      "done": "Готово"
     },
     "suggestions": {
-      "title": "Suggestions",
-      "new": "New Suggestion",
-      "searchPlaceholder": "Search suggestions...",
-      "allStatuses": "All Statuses",
-      "pending": "Pending",
-      "approved": "Approved",
-      "denied": "Denied",
-      "empty": "No suggestions found matching your filters.",
+      "title": "Предложения",
+      "new": "Предложить...",
+      "searchPlaceholder": "Поиск предложений...",
+      "allStatuses": "Все статусы",
+      "pending": "Ожидает",
+      "approved": "Одобрено",
+      "denied": "Отклонено",
+      "empty": "Ничего не найдено.",
       "dialog": {
-        "title": "Suggest a Feature",
-        "titleLabel": "Title",
-        "titlePlaceholder": "Short title",
-        "contentLabel": "Description",
-        "contentPlaceholder": "Describe your suggestion...",
-        "submit": "Submit",
-        "submitting": "Submitting...",
-        "success": "Suggestion submitted"
+        "title": "Предложить функцию",
+        "titleLabel": "Название",
+        "titlePlaceholder": "Короткое название",
+        "contentLabel": "Описание",
+        "contentPlaceholder": "Опишите своё предложение...",
+        "submit": "Отправить",
+        "submitting": "Отправление...",
+        "success": "Предложение отправлено"
       }
     },
     "nav": {
-      "roadmap": "Roadmap",
-      "suggestions": "Suggestions",
-      "bugs": "Bug Reports",
-      "changelog": "Changelog"
+      "roadmap": "Планы",
+      "suggestions": "Предложения",
+      "bugs": "Баг репорты",
+      "changelog": "Список изменений"
     },
     "bugs": {
-      "title": "Bug Reports",
-      "new": "Report Bug",
-      "searchPlaceholder": "Search bugs...",
-      "allStatuses": "All Statuses",
-      "open": "Open",
-      "closed": "Closed",
-      "invalid": "Invalid",
-      "empty": "No bug reports found matching your filters.",
-      "noItems": "No bugs reported yet.",
-      "version": "Version",
-      "steps": "Steps",
+      "title": "Баг репорты",
+      "new": "Обжаловать баг",
+      "searchPlaceholder": "Поиск по багам...",
+      "allStatuses": "Все статусы",
+      "open": "Открыт",
+      "closed": "Закрыт",
+      "invalid": "Неверен",
+      "empty": "Ничего не найдено"",
+      "noItems": "Ничего не обжаловано.",
+      "version": "Версия",
+      "steps": "Шаги",
       "dialog": {
-        "title": "Report a Bug",
-        "titleLabel": "Issue Title",
-        "titlePlaceholder": "Brief summary",
-        "versionLabel": "Client Version",
-        "descriptionLabel": "Description",
-        "descriptionPlaceholder": "What happened?",
-        "stepsLabel": "Reproduction Steps",
-        "stepsPlaceholder": "1. Go to... 2. Click...",
-        "submit": "Submit Report",
-        "submitting": "Submitting...",
-        "success": "Bug report submitted"
+        "title": "Обжаловать баг",
+        "titleLabel": "Название",
+        "titlePlaceholder": "название баг репорта",
+        "versionLabel": "Версия клиента",
+        "descriptionLabel": "Описаное",
+        "descriptionPlaceholder": "Что произошлои?",
+        "stepsLabel": "Этапы воспроизведения",
+        "stepsPlaceholder": "1. Перейти... 2. Нажать...",
+        "submit": "Отправить",
+        "submitting": "Отправление...",
+        "success": "Баг репорт отправлен"
       }
     }
   },
   "manage": {
     "roadmap": {
-      "title": "Roadmap",
-      "searchPlaceholder": "Search roadmap...",
-      "filterStatus": "Filter by status",
-      "allStatuses": "All Statuses",
-      "addItem": "Add Item",
-      "editItem": "Edit Item",
-      "createItem": "Create Item",
-      "titleLabel": "Title",
-      "descriptionLabel": "Description",
-      "categoryLabel": "Category",
-      "categoryPlaceholder": "e.g. Client",
-      "typeLabel": "Type",
-      "feature": "Feature",
-      "bug": "Bug",
-      "statusLabel": "Status",
-      "planned": "Planned",
-      "inProgress": "In Progress",
-      "done": "Done",
-      "save": "Save",
-      "saving": "Saving...",
+      "title": "Планы",
+      "searchPlaceholder": "Поиск по планам...",
+      "filterStatus": "Отфильтровать за статусом",
+      "allStatuses": "Все статусы",
+      "addItem": "Добавить",
+      "editItem": "Отредактировать",
+      "createItem": "Создать",
+      "titleLabel": "Название",
+      "descriptionLabel": "Описание",
+      "categoryLabel": "Клиент",
+      "categoryPlaceholder": "Клиент",
+      "typeLabel": "Тип",
+      "feature": "Функция",
+      "bug": "Баг",
+      "statusLabel": "Статус",
+      "planned": "Запланировано",
+      "inProgress": "В процессе",
+      "done": "Готово",
+      "save": "Сохранить",
+      "saving": "Сохранение...",
       "table": {
-        "title": "Title",
-        "category": "Category",
-        "type": "Type",
-        "status": "Status",
-        "actions": "Actions",
-        "empty": "No items found"
+        "title": "Название",
+        "category": "Категория",
+        "type": "Тип",
+        "status": "Статус",
+        "actions": "Действия",
+        "empty": "Ничего не найдено"
       },
       "toast": {
-        "updated": "Item updated",
-        "created": "Item created",
-        "deleted": "Item deleted"
+        "updated": "Обновлено",
+        "created": "Создано",
+        "deleted": "Удалено"
       },
-      "confirmDelete": "Are you sure?"
+      "confirmDelete": "Уверены?"
     },
     "suggestions": {
-      "title": "Suggestions",
-      "searchPlaceholder": "Search suggestions...",
-      "filterStatus": "Filter by status",
-      "allStatuses": "All Statuses",
-      "pending": "Pending",
-      "approved": "Approved",
-      "denied": "Denied",
+      "title": "Предложения",
+      "searchPlaceholder": "Поиск по предложениям...",
+      "filterStatus": "Отфильтровать за статусом",
+      "allStatuses": "Все статусы",
+      "pending": "Ожидает",
+      "approved": "Одобрено",
+      "denied": "Отклонено",
       "table": {
-        "content": "Content",
-        "author": "Author",
-        "votes": "Votes",
-        "status": "Status",
-        "created": "Created",
-        "actions": "Actions",
-        "empty": "No suggestions found"
+        "content": "Контент",
+        "author": "Автор",
+        "votes": "Голосы",
+        "status": "Статус",
+        "created": "Создано",
+        "actions": "Действия",
+        "empty": "Не найдено"
       },
       "toast": {
-        "approved": "Suggestion approved & coins rewarded",
-        "denied": "Suggestion denied",
-        "deleted": "Suggestion deleted"
+        "approved": "Предложение одобрено & койны выданы",
+        "denied": "Предложение отклонено",
+        "deleted": "Предложение удалено"
       },
-      "confirmDeny": "Deny this suggestion?",
-      "confirmDelete": "Are you absolutely sure? This will delete the suggestion permanently."
+      "confirmDeny": "Отклонить это предложение?",
+      "confirmDelete": "Вы уверены? Это невозможно обратить вспять."
     },
     "bugs": {
-      "title": "Bug Reports",
-      "searchPlaceholder": "Search bug reports...",
-      "filterStatus": "Filter by status",
-      "allStatuses": "All Statuses",
-      "open": "Open",
-      "closed": "Closed",
-      "invalid": "Invalid",
+      "title": "Баг репорты",
+      "searchPlaceholder": "Поиск по баг репортам...",
+      "filterStatus": "Поиск по баг репортам,
+      "allStatuses": "все статусы",
+      "open": "Открыт",
+      "closed": "Закрыт",
+      "invalid": "Неверен",
       "table": {
-        "issue": "Issue",
-        "author": "Author",
-        "version": "Version",
-        "status": "Status",
-        "created": "Created",
-        "actions": "Actions",
-        "empty": "No bug reports found"
+        "issue": "Проблема",
+        "author": "Автор",
+        "version": "Версия",
+        "status": "Статус",
+        "created": "Создано",
+        "actions": "Действия",
+        "empty": "Не найдено"
       },
       "toast": {
-        "closed": "Bug report closed",
-        "invalid": "Bug report marked invalid",
-        "deleted": "Bug report deleted"
+        "closed": "Баг репорт закрыт.",
+        "invalid": "Баг репорт помечен как неверный.",
+        "deleted": "Баг репорт был удален."
       },
-      "confirmClose": "Close this bug report?",
-      "confirmInvalid": "Mark as invalid?",
-      "confirmDelete": "Are you absolutely sure? This will delete the bug report permanently."
+      "confirmClose": "Закрыть этот баг репорт?",
+      "confirmInvalid": "Пометить как неверный?",
+      "confirmDelete": "Вы точно уверены? Это нельзя обратить вспять."
     }
   }
     }
