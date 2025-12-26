@@ -324,9 +324,44 @@
         },
         "buy": {
           "description": "Purchase <strong class=\"font-medium\">Opal</strong>. A key will be sent to your email after a successful purchase.",
-          "button": "Continue to Checkout"
+          "button": "Continue to Checkout",
+          "cryptoLabel": "Pay with Cryptocurrency",
+          "ltcButton": "Pay with LTC",
+          "btcButton": "Pay with BTC"
         },
         "continue": "Continue"
+      },
+      "crypto": {
+        "title": "Pay with {chain}",
+        "subtitle": "Scan the QR code or send {symbol} to the address below",
+        "completed": "Payment Complete!",
+        "confirming": "Confirming Payment...",
+        "detected": "Payment Detected",
+        "waiting": "Waiting for Payment",
+        "price": "Price: $8.99 USD",
+        "address": "Payment Address",
+        "copied": "Address copied to clipboard!",
+        "copyFailed": "Failed to copy address",
+        "instructions": {
+          "title": "How to pay:",
+          "step1": "Send {symbol} to the address above",
+          "step2": "Wait for blockchain confirmation (usually 10-30 minutes)",
+          "step3": "Your license key will be sent to your email automatically"
+        },
+        "viewExplorer": "View on Block Explorer",
+        "back": "Back to Activate",
+        "statusDetected": "Transaction detected! Waiting for confirmations...",
+        "statusConfirmed": "Confirming your payment. This may take a few minutes...",
+        "statusCompleted": "Payment confirmed! Redirecting to your dashboard...",
+        "success": {
+          "title": "Payment Confirmed!",
+          "description": "Your license has been activated. Check your email for details."
+        },
+        "errors": {
+          "failedToGenerate": "Failed to generate payment address",
+          "invalidEmail": "Please enter a valid email address",
+          "serviceUnavailable": "Crypto payments are temporarily unavailable"
+        }
       },
       "success": {
         "title": "Congratulations!",
