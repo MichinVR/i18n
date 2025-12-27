@@ -926,8 +926,27 @@
       "invalid": "Invalid",
       "empty": "No bug reports found matching your filters.",
       "noItems": "No bugs reported yet.",
-      "version": "Version",
-      "steps": "Steps",
+      "version": "Client Version",
+      "steps": "Reproduction Steps",
+      "description": "Description",
+      "detailTitle": "Bug Report Details",
+      "discussion": "Discussion",
+      "officialResponse": "Official Response",
+      "devResponseLabel": "Developer Response",
+      "devResponsePlaceholder": "Add an official response...",
+      "saveResponse": "Save Response",
+      "discussionLocked": "Discussion is closed for this bug report.",
+      "noComments": "No comments yet. Be the first to share your thoughts.",
+      "addComment": "Add a comment",
+      "commentPlaceholder": "Share your thoughts...",
+      "postComment": "Post Comment",
+      "replyPlaceholder": "Write a reply...",
+      "post": "Post",
+      "cancel": "Cancel",
+      "sortBy": "Sort by",
+      "sortDefault": "Default",
+      "sortNewest": "Newest",
+      "sortOldest": "Oldest",
       "dialog": {
         "title": "Report a Bug",
         "titleLabel": "Issue Title",
@@ -936,7 +955,7 @@
         "descriptionLabel": "Description",
         "descriptionPlaceholder": "What happened?",
         "stepsLabel": "Reproduction Steps",
-        "stepsPlaceholder": "1. Go to... 2. Click...",
+        "stepsPlaceholder": "1. Go to...\n2. Click...",
         "submit": "Submit Report",
         "submitting": "Submitting...",
         "success": "Bug report submitted"
@@ -1070,7 +1089,7 @@
       "exists": "Relationship already exists"
     }
   },
-    "inbox": {
+  "inbox": {
     "title": "Inbox",
     "unread": "unread notification",
     "allRead": "All caught up",
