@@ -1069,5 +1069,14 @@
       "minecraft_not_found": "Minecraft user not found",
       "exists": "Relationship already exists"
     }
+  },
+    "inbox": {
+    "title": "Inbox",
+    "unread": "unread notification",
+    "allRead": "All caught up",
+    "markAllRead": "Mark all read",
+    "clearAll": "Clear all",
+    "empty": "No notifications",
+    "emptyDescription": "When you get notifications, they will appear here"
   }
 }
