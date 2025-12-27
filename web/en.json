@@ -350,8 +350,8 @@
         },
         "viewExplorer": "View on Block Explorer",
         "back": "Back to Activate",
-        "statusDetected": "Transaction detected! Waiting for confirmations...",
-        "statusConfirmed": "Confirming your payment. This may take a few minutes...",
+        "statusDetected": "Transaction detected, waiting for confirmations...",
+        "statusConfirmed": "Confirming transaction...",
         "statusCompleted": "Payment confirmed! Redirecting to your dashboard...",
         "success": {
           "title": "Payment Confirmed!",
@@ -361,7 +361,19 @@
           "failedToGenerate": "Failed to generate payment address",
           "invalidEmail": "Please enter a valid email address",
           "serviceUnavailable": "Crypto payments are temporarily unavailable"
-        }
+        },
+        "ltcName": "Litecoin",
+        "btcName": "Bitcoin",
+        "paymentConfirmed": "Payment Confirmed!",
+        "keyInstructions": "Your license key is ready. We have also sent it to your email.",
+        "yourLicenseKey": "License Key",
+        "copyKey": "Copy Key",
+        "keyCopied": "License key copied!",
+        "goToDashboard": "Go to Dashboard",
+        "accessTip": "You can now download the client from your dashboard.",
+        "paymentErrorTitle": "Payment Error",
+        "tryAgain": "Try Again",
+        "goBack": "Go Back"
       },
       "success": {
         "title": "Congratulations!",
