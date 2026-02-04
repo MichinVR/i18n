@@ -1,1 +1,59 @@
-
+{
+  "title": "Términos de Servicio",
+  "effectiveDate": "1 de Mayo de 2025",
+  "sections": [
+    {
+      "title": "1. Introducción",
+      "content": "Estos Términos de Servicio (\"TOS\") rigen tu acceso y uso de los servicios proporcionados por Opal x Terminus, accesible en https://opalxterminus.com. Al acceder o usar nuestros servicios, aceptas estar atado a estos términos y entiendes que eres responsable de cumplir con las leyes locales aplicables. Si no estás de acuerdo, tienes prohibido usar nuestros servicios."
+    },
+    {
+      "title": "2. Uso de los Servicios",
+      "content": [
+        "Aceptas usar nuestros servicios solo para fines legales y de acuerdo con estos términos.",
+        "No usarás los servicios de ninguna manera que pueda inhabilitar, sobrecargar, dañar o perjudicar el servicio o interferir con el uso del servicio por parte de otros.",
+        "No intentarás obtener acceso no autorizado a ningún servicio, sistemas informáticos o redes conectadas a Opal.",
+        "El Botting, DDoSing o simular interacción humana con cualquier componente o servicio conectado de Opal está estrictamente prohibido. Tales acciones llevarán al cierre de tu cuenta y consecuencias adicionales.",
+        "Actividades no autorizadas como leaking, cometer fraude, cracking, manipulación, ingeniería inversa, reventa, redistribución o compartir cualquier producto o dato encontrado en Opal están estrictamente prohibidas. Involucrarse en estas acciones puede llevar a la suspensión permanente de tu cuenta, revocación de tus compras, solicitudes de eliminación DMCA y poner tus datos de identificación y pago en la lista negra (blacklist) en todos los servicios de Opal y sus afiliados."
+      ]
+    },
+    {
+      "title": "3. Licencias",
+      "content": [
+        "A menos que se diga lo contrario, Opal y/o sus licenciantes poseen los derechos de propiedad intelectual de todo el material en Opal. Todos los derechos de propiedad intelectual están reservados. Puedes acceder a este material en Opal para tu uso personal sujeto a las restricciones establecidas en estos términos.",
+        "A menos que Opal y/o sus licenciantes den permiso explícito:",
+        "No puedes republicar material de Opal.",
+        "No puedes redistribuir contenido de Opal.",
+        "No puedes vender, alquilar o sub-licenciar material de Opal.",
+        "No puedes reproducir, duplicar o copiar material de Opal."
+      ]
+    },
+    {
+      "title": "4. Cuentas de Usuario",
+      "content": "Cuando creas una cuenta de Opal, debes darnos información que sea precisa, completa y actual en todo momento. No hacerlo constituye una violación de los Términos de Servicio de Opal, lo cual puede resultar en la terminación inmediata de tu cuenta en nuestro servicio."
+    },
+    {
+      "title": "5. Política de Reembolso",
+      "content": "Los reembolsos no están permitidos a menos que se indique explícitamente lo contrario. En el caso de que intentes iniciar una disputa de pago fraudulenta (chargeback), el acceso a tu producto será revocado inmediatamente y tu cuenta enfrentará una suspensión permanente. Es importante notar que al comprar un producto en Opal, renuncias voluntariamente a tu derecho a disputar el pago."
+    },
+    {
+      "title": "6. Modificaciones al Servicio y Precios",
+      "content": "Nos reservamos el derecho en cualquier momento de modificar o discontinuar, temporal o permanentemente, el servicio (o cualquier parte del mismo) con o sin aviso. Los precios de todos los servicios están sujetos a cambios sin previo aviso."
+    },
+    {
+      "title": "7. Terminación",
+      "content": "Podemos terminar o suspender el acceso a nuestro servicio inmediatamente, sin previo aviso ni responsabilidad, por cualquier razón, incluyendo, sin limitación, si rompes estos términos."
+    },
+    {
+      "title": "8. Cookies",
+      "content": "Empleamos el uso de cookies. Al acceder a Opal, aceptas usar cookies de acuerdo con nuestra Política de Privacidad. La mayoría de webs interactivas usan cookies para recuperar los detalles del usuario en cada visita. Nuestro sitio web usa cookies para asegurar el acceso a ciertas partes de la web. No usamos cookies para ningún otro propósito."
+    },
+    {
+      "title": "9. Cambios en los Términos",
+      "content": "Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos términos en cualquier momento."
+    },
+    {
+      "title": "10. Contáctanos",
+      "content": "Si tienes alguna pregunta sobre estos términos, contáctanos vía email en support@mail.opalxterminus.com. Haremos lo posible por responderte lo antes posible."
+    }
+  ]
+}
